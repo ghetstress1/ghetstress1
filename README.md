@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Greetings 👋
+My name is Alan Galván, I am from Universidad de Colima taking PhD on chemistry.
+I have specially interest on Data Analysis, molecular dynamics and python language.
 <!--
 **ghetstress1/ghetstress1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
